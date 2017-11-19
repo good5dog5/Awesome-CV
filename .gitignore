@@ -1,0 +1,4 @@
+examples/*
+*.pdf
+*.log
+*.aux
